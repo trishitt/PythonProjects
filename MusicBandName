@@ -1,0 +1,7 @@
+print ('Welcome to your Basic Music Band Name generator!')
+
+city = input ('Which city did you grew up?')
+
+pet = input ("What was your pet's name?(If you didn't have one make up one!)")
+
+print ("Your Music Band Name will be "+ city + " "+ pet + " Rock'N Roll")
