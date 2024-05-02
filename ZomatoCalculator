@@ -1,0 +1,9 @@
+print("Welcome to the ZOMATO tip calculator!")
+a = float(input("What was the total bill? RS- "))
+b = int(input("how much tip would you like to give? RS- "))
+c = int(input("How many bhukkars will split it?\n" "minimum 1: "))
+
+d = a + b
+d = d / c
+
+print (round(d,2))
